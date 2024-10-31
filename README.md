@@ -1,3 +1,3 @@
 #trial
 
-this is a trial project
+this is a trial project!
